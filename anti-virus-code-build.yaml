@@ -1,6 +1,6 @@
 # Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 # SPDX-License-Identifier: MIT-0
-Description: Automating  continuous updates of virus signature definitions to be prepared for the latest malware threats (SO9508)
+Description: Automating  continuous updates of virus signature definitions to be prepared for the latest malware threats (SO9547)
 Parameters:
   UploadBucketName:
     Type: String
